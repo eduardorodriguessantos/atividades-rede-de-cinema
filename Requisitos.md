@@ -1,5 +1,6 @@
-1. Requisitos Funcionais (O que o sistema faz)
- RF01 - Manter Filmes: O sistema deve permitir o cadastro, edição e exclusão de filmes com título, duração e classificação indicativa.
+# 1. Requisitos Funcionais 
+
+RF01 - Manter Filmes: O sistema deve permitir o cadastro, edição e exclusão de filmes com título, duração e classificação indicativa.
 
  RF02 - Gerenciar Sessões: O sistema deve permitir criar sessões vinculando um filme a uma sala e um horário específico.
 
@@ -7,7 +8,7 @@
 
  RF04 - Consulta de Programação: O sistema deve exibir para o espectador os filmes e horários disponíveis.
 
-2. Regras de Negócio (As restrições do sistema)
+# 2. Regras de Negócio 
  RN01 - Disponibilidade de Sala: Não é permitido cadastrar duas sessões simultâneas na mesma sala (conflito de horário).
 
  RN02 - Limite de Lotação: A quantidade de ingressos vendidos para uma sessão não pode ultrapassar a capacidade total da sala.
